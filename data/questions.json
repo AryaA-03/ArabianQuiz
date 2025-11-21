@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "story": "Scheherazade",
+    "theme": "Framing",
+    "difficulty": "easy",
+    "text": "Who is the storyteller who tells the tales every night in One Thousand and One Nights?",
+    "options": [
+      "Scheherazade",
+      "Dinarzad",
+      "Aladdin",
+      "Sinbad"
+    ],
+    "correct_index": 0,
+    "explanation": "Scheherazade tells the stories to the king to postpone her execution.",
+    "source": "traditional"
+  },
+  {
+    "id": 2,
+    "story": "Aladdin",
+    "theme": "Aladdin",
+    "difficulty": "easy",
+    "text": "Which character famously possesses a magic lamp with a genie?",
+    "options": [
+      "Ali Baba",
+      "Aladdin",
+      "Sinbad",
+      "Harun al-Rashid"
+    ],
+    "correct_index": 1,
+    "explanation": "Aladdin finds a lamp with a genie who grants wishes.",
+    "source": "traditional"
+  },
+  {
+    "id": 3,
+    "story": "Frame",
+    "theme": "Kings",
+    "difficulty": "easy",
+    "text": "Which king appears in the frame tales of many Nights stories?",
+    "options": [
+      "Shahryar",
+      "Harun al-Rashid",
+      "King Solomon",
+      "Al-Mansur"
+    ],
+    "correct_index": 0,
+    "explanation": "Shahryar is the king in the frame tales.",
+    "source": "traditional"
+  },
+  {
+    "id": 4,
+    "story": "Ali Baba",
+    "theme": "Ali Baba",
+    "difficulty": "medium",
+    "text": "In Ali Baba and the Forty Thieves, what phrase opens the thieves' cave in many retellings?",
+    "options": [
+      "Open Sesame",
+      "Open City",
+      "Open Door",
+      "Open Sands"
+    ],
+    "correct_index": 0,
+    "explanation": "The famous phrase 'Open Sesame' opens the cave.",
+    "source": "traditional"
+  },
+  {
+    "id": 5,
+    "story": "Sinbad",
+    "theme": "Sinbad",
+    "difficulty": "easy",
+    "text": "Which character sails the seven seas and has fantastical voyages?",
+    "options": [
+      "Aladdin",
+      "Sinbad",
+      "Ali Baba",
+      "Sindbad"
+    ],
+    "correct_index": 1,
+    "explanation": "Sinbad the Sailor undertakes several voyages filled with monsters and wonders.",
+    "source": "traditional"
+  },
+  {
+    "id": 6,
+    "story": "Motifs",
+    "theme": "Magic",
+    "difficulty": "easy",
+    "text": "What object often symbolizes transformation and magical power in the tales?",
+    "options": [
+      "Lamp",
+      "Sword",
+      "Book",
+      "Necklace"
+    ],
+    "correct_index": 0,
+    "explanation": "The lamp (or ring) often has magical properties.",
+    "source": "traditional"
+  },
+  {
+    "id": 7,
+    "story": "Harun al-Rashid",
+    "theme": "Caliph",
+    "difficulty": "easy",
+    "text": "Which Caliph appears as a character in many tales and is known for wisdom?",
+    "options": [
+      "Harun al-Rashid",
+      "Omar Khayyam",
+      "Harith",
+      "Suleiman"
+    ],
+    "correct_index": 0,
+    "explanation": "Harun al-Rashid appears in many stories.",
+    "source": "historical"
+  },
+  {
+    "id": 8,
+    "story": "Scheherazade",
+    "theme": "Framing",
+    "difficulty": "medium",
+    "text": "How does Scheherazade survive each night in many versions?",
+    "options": [
+      "With magic",
+      "By telling a cliffhanger story",
+      "By disguising herself",
+      "By offering treasure"
+    ],
+    "correct_index": 1,
+    "explanation": "She ends each night's tale on a cliffhanger.",
+    "source": "traditional"
+  },
+  {
+    "id": 9,
+    "story": "Collection",
+    "theme": "General",
+    "difficulty": "easy",
+    "text": "What is the meaning of the term 'Arabian Nights'?",
+    "options": [
+      "Single story",
+      "A collection of stories told over nights",
+      "A festival",
+      "A book of songs"
+    ],
+    "correct_index": 1,
+    "explanation": "It's a frame-story collection told across nights.",
+    "source": "traditional"
+  },
+  {
+    "id": 10,
+    "story": "Motifs",
+    "theme": "Trickster",
+    "difficulty": "easy",
+    "text": "Which figure often tests the hero's cleverness rather than strength?",
+    "options": [
+      "Genies",
+      "Merchants",
+      "Wives",
+      "Tricksters/wise commoners"
+    ],
+    "correct_index": 3,
+    "explanation": "The tales value wit and cunning; trickster figures appear often.",
+    "source": "traditional"
+  },
+  {
+    "id": 11,
+    "story": "Fisherman",
+    "theme": "Jinni",
+    "difficulty": "hard",
+    "text": "Which tale involves a fisherman, a jar, and a trapped jinni?",
+    "options": [
+      "The Fisherman and the Jinni",
+      "The Three Apples",
+      "The Ebony Horse",
+      "The Hunchback's Tale"
+    ],
+    "correct_index": 0,
+    "explanation": "A fisherman traps a jinni in a jar.",
+    "source": "traditional"
+  },
+  {
+    "id": 12,
+    "story": "Ali Baba",
+    "theme": "Ali Baba",
+    "difficulty": "easy",
+    "text": "The phrase 'Open Sesame' is used in which story?",
+    "options": [
+      "Aladdin",
+      "Ali Baba and the Forty Thieves",
+      "The Porter and the Three Ladies",
+      "The Hunchback"
+    ],
+    "correct_index": 1,
+    "explanation": "Used to open the thieves' cave.",
+    "source": "traditional"
+  },
+  {
+    "id": 13,
+    "story": "Ali Baba",
+    "theme": "Ali Baba",
+    "difficulty": "medium",
+    "text": "Who is Morgiana in Ali Baba stories?",
+    "options": [
+      "A sorceress",
+      "Ali Baba's servant who outwits the thieves",
+      "The leader of the thieves",
+      "A princess"
+    ],
+    "correct_index": 1,
+    "explanation": "Morgiana is the clever slave-girl who saves Ali Baba.",
+    "source": "traditional"
+  },
+  {
+    "id": 14,
+    "story": "Three Apples",
+    "theme": "Mystery",
+    "difficulty": "medium",
+    "text": "The story 'The Three Apples' is notable because it is:",
+    "options": [
+      "A romance",
+      "A murder mystery",
+      "A sea voyage",
+      "A desert fable"
+    ],
+    "correct_index": 1,
+    "explanation": "It is structured as a murder mystery.",
+    "source": "traditional"
+  },
+  {
+    "id": 15,
+    "story": "Motifs",
+    "theme": "Identity",
+    "difficulty": "easy",
+    "text": "Which motif is common across Arabian Nights?",
+    "options": [
+      "Quest for identity",
+      "Industrialization",
+      "Space travel",
+      "Nuclear war"
+    ],
+    "correct_index": 0,
+    "explanation": "Identity, fate, and cleverness are recurring motifs.",
+    "source": "traditional"
+  },
+  {
+    "id": 16,
+    "story": "Ebony Horse",
+    "theme": "Technology",
+    "difficulty": "hard",
+    "text": "Which story contains a flying mechanical device?",
+    "options": [
+      "The Ebony Horse",
+      "The Merchant and the Jinni",
+      "Aladdin",
+      "The City of Brass"
+    ],
+    "correct_index": 0,
+    "explanation": "The Ebony Horse is a mechanical flying horse.",
+    "source": "traditional"
+  },
+  {
+    "id": 17,
+    "story": "Scheherazade",
+    "theme": "Framing",
+    "difficulty": "easy",
+    "text": "Who often acts as a moral or framing voice in the collection?",
+    "options": [
+      "The Caliph",
+      "Scheherazade herself",
+      "The Genie",
+      "The Hunchback"
+    ],
+    "correct_index": 1,
+    "explanation": "Scheherazade frames the stories and sometimes inserts morals.",
+    "source": "traditional"
+  },
+  {
+    "id": 18,
+    "story": "Ali Baba",
+    "theme": "Ali Baba",
+    "difficulty": "easy",
+    "text": "Which tale features a cave, a treasure, and a secret phrase?",
+    "options": [
+      "Sinbad",
+      "Ali Baba and the Forty Thieves",
+      "The City of Brass",
+      "The Enchanted Horse"
+    ],
+    "correct_index": 1,
+    "explanation": "Classic treasure cave story.",
+    "source": "traditional"
+  },
+  {
+    "id": 19,
+    "story": "Motifs",
+    "theme": "Transformation",
+    "difficulty": "medium",
+    "text": "Which of these is a recurring theme in many Nights stories?",
+    "options": [
+      "Peer-to-peer networking",
+      "Transformation and disguise",
+      "Time travel",
+      "Industrial labor"
+    ],
+    "correct_index": 1,
+    "explanation": "Shape-shifting, disguise, and transformation are common.",
+    "source": "traditional"
+  },
+  {
+    "id": 20,
+    "story": "Aladdin",
+    "theme": "Aladdin",
+    "difficulty": "easy",
+    "text": "In the story of Aladdin, who helps Aladdin defeat the sorcerer?",
+    "options": [
+      "The princess alone",
+      "The genie / magical helper",
+      "Ali Baba",
+      "Sinbad"
+    ],
+    "correct_index": 1,
+    "explanation": "The genie or magical helpers often aid Aladdin.",
+    "source": "traditional"
+  },
+  {
+    "id": 21,
+    "story": "City of Brass",
+    "theme": "Philosophy",
+    "difficulty": "hard",
+    "text": "Which story involves a group encountering moral tests and riddles filled with philosophical anecdotes?",
+    "options": [
+      "The Seven Viziers",
+      "The City of Brass",
+      "The Three Apples",
+      "The Ebony Horse"
+    ],
+    "correct_index": 1,
+    "explanation": "The City of Brass has tests and moral tales.",
+    "source": "traditional"
+  },
+  {
+    "id": 22,
+    "story": "Structure",
+    "theme": "Narrative",
+    "difficulty": "easy",
+    "text": "What literary device is prominent in One Thousand and One Nights because of Scheherazade's storytelling?",
+    "options": [
+      "Flash fiction",
+      "Frame story / nested narrative",
+      "Free verse",
+      "Epic simile"
+    ],
+    "correct_index": 1,
+    "explanation": "Stories nested within stories is a defining feature.",
+    "source": "traditional"
+  },
+  {
+    "id": 23,
+    "story": "Aladdin",
+    "theme": "Authorship",
+    "difficulty": "medium",
+    "text": "Which famous tale was likely a later addition to many collections (entered via translations)?",
+    "options": [
+      "Sinbad",
+      "Aladdin",
+      "The Ebony Horse",
+      "The Three Apples"
+    ],
+    "correct_index": 1,
+    "explanation": "Aladdin entered the collection through later translations.",
+    "source": "scholarship"
+  },
+  {
+    "id": 24,
+    "story": "Origin",
+    "theme": "Geography",
+    "difficulty": "easy",
+    "text": "The collection originated mainly from which cultural region?",
+    "options": [
+      "East Asia",
+      "Middle East / South Asia",
+      "Europe",
+      "Africa"
+    ],
+    "correct_index": 1,
+    "explanation": "The tales come from Middle Eastern, Persian, Indian traditions.",
+    "source": "traditional"
+  }
+]

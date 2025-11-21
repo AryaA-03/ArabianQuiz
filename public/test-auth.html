@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Test Auth</title>
+</head>
+<body>
+  <h1>Test Authentication</h1>
+  <button onclick="testSignIn()">Test Sign In</button>
+  <div id="result"></div>
+
+  <script>
+    async function testSignIn() {
+      const result = document.getElementById('result');
+      result.innerHTML = 'Testing...';
+      
+      try {
+        const res = await fetch('http://localhost:3000/api/auth/signin', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            email: 'nothinmuch0101@gmail.com',
+            password: '123456'
+          })
+        });
+        
+        const data = await res.json();
+        
+        if (res.ok && data.success) {
+          localStorage.setItem('authToken', data.token);
+          localStorage.setItem('user', JSON.stringify(data.user));
+          sessionStorage.setItem('isAuthenticated', 'true');
+          
+          result.innerHTML = '<div style="color: green; font-weight: bold;">✅ Sign in successful!</div>' +
+            '<p>User: ' + data.user.username + '</p>' +
+            '<p>Email: ' + data.user.email + '</p>' +
+            '<button onclick="window.location.href=\'/quiz\'">Go to Quiz</button>';
+        } else {
+          result.innerHTML = '<div style="color: red;">❌ Error: ' + data.error + '</div>';
+        }
+      } catch (err) {
+        result.innerHTML = '<div style="color: red;">❌ Error: ' + err.message + '</div>';
+      }
+    }
+  </script>
+</body>
+</html>

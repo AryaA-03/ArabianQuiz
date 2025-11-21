@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Leaderboard Test - Study User (Rank #12, Score 76)</title>
+    <style>
+        body { font-family: Arial; background: #1a1a2e; color: white; padding: 20px; }
+        .container { max-width: 600px; margin: 0 auto; }
+        .top10 { background: #16213e; padding: 20px; border-radius: 10px; margin: 20px 0; }
+        .separator { text-align: center; margin: 20px 0; color: #daa520; }
+        .user-rank { background: linear-gradient(135deg, rgba(59, 130, 246, 0.2), rgba(147, 51, 234, 0.2)); 
+                     border: 2px solid #3b82f6; padding: 20px; border-radius: 10px; 
+                     animation: pulse 2s infinite; }
+        .rank-item { padding: 10px; margin: 5px 0; background: rgba(255,255,255,0.05); border-radius: 5px; }
+        .badge { background: #3b82f6; padding: 2px 8px; border-radius: 12px; font-size: 12px; }
+        .header { text-align: center; color: #daa520; margin-bottom: 10px; font-weight: bold; }
+        @keyframes pulse { 0%, 100% { box-shadow: 0 0 20px rgba(59, 130, 246, 0.5); }
+                          50% { box-shadow: 0 0 30px rgba(59, 130, 246, 0.8); } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 style="text-align: center; color: #daa520;">🏆 Global Leaderboard</h1>
+        <p style="text-align: center;">Your High Score: <strong style="color: #daa520;">76</strong></p>
+        
+        <div class="top10">
+            <h3 style="color: #daa520;">Rankings</h3>
+            <div class="rank-item">🥇 #1. Top Player - 1500 pts</div>
+            <div class="rank-item">🥈 #2. Player 5 - 1368 pts</div>
+            <div class="rank-item">🥉 #3. Player 4 - 1272 pts</div>
+            <div class="rank-item">#4. Test User Updated - 1200 pts</div>
+            <div class="rank-item">#5. Player 3 - 1190 pts</div>
+            <div class="rank-item">#6. Player 2 - 1159 pts</div>
+            <div class="rank-item">#7. Auto Test User - 950 pts</div>
+            <div class="rank-item">#8. Player 6 - 950 pts</div>
+            <div class="rank-item">#9. Player 7 - 903 pts</div>
+            <div class="rank-item">#10. Player 1 - 865 pts</div>
+        </div>
+        
+        <div class="separator">• • •</div>
+        
+        <div class="user-rank">
+            <div class="header">📍 Your Rank</div>
+            <div class="rank-item" style="background: rgba(59, 130, 246, 0.1);">
+                #12. Study - 76 pts <span class="badge">YOU</span>
+            </div>
+        </div>
+        
+        <p style="text-align: center; margin-top: 30px; color: #888;">
+            ✨ This is what you should see on http://localhost:3000/leaderboard when logged in as Study user
+        </p>
+    </div>
+</body>
+</html>

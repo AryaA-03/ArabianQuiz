@@ -1,0 +1,883 @@
+[
+  {
+    "id": 1,
+    "score": 58,
+    "answers": [
+      {
+        "questionId": 16,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 9,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 3,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 13,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 21,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 4,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 5,
+        "selectedIndex": 3,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 24,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 14,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 2
+      }
+    ],
+    "mode": "timed",
+    "totalQuestions": 10,
+    "created_at": "2025-11-20T16:37:20.175Z"
+  },
+  {
+    "id": 2,
+    "score": 20,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 8
+      },
+      {
+        "questionId": 7,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 2,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 17,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 15,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 2
+      },
+      {
+        "questionId": 20,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 22,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 11,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 3,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 1
+      }
+    ],
+    "mode": "timed",
+    "totalQuestions": 10,
+    "created_at": "2025-11-20T17:14:54.072Z"
+  },
+  {
+    "id": 3,
+    "score": 50,
+    "answers": [
+      {
+        "questionId": 3,
+        "selectedIndex": 3,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 5,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 22,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 24,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 2,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 10,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 15,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 20,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 2
+      },
+      {
+        "questionId": 6,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 0
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "all",
+    "totalQuestions": 10,
+    "created_at": "2025-11-20T18:01:22.937Z"
+  },
+  {
+    "id": 4,
+    "score": 69,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 9,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 22,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 6,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 17,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 21,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 19,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 11,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 15,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 0
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "mixed",
+    "theme": "all",
+    "totalQuestions": 10,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T18:05:20.717Z"
+  },
+  {
+    "id": 5,
+    "score": 64,
+    "answers": [
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 5,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 11,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 22,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 21,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 4,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 16,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 8,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 20,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 15,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 1
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "mixed",
+    "theme": "all",
+    "totalQuestions": 10,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T18:06:09.806Z"
+  },
+  {
+    "id": 6,
+    "score": 0,
+    "answers": [
+      {
+        "questionId": 20,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 2,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Aladdin",
+    "totalQuestions": 2,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T18:08:04.806Z"
+  },
+  {
+    "id": 7,
+    "score": 81,
+    "answers": [
+      {
+        "questionId": 3,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 5,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 7,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 6,
+        "selectedIndex": 0,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 2,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 20,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 24,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      },
+      {
+        "questionId": 9,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "all",
+    "totalQuestions": 10,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T18:08:44.606Z"
+  },
+  {
+    "id": 8,
+    "score": 14,
+    "answers": [
+      {
+        "questionId": 2,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 2
+      },
+      {
+        "questionId": 20,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Aladdin",
+    "totalQuestions": 2,
+    "username": "Guest",
+    "timestamp": "2025-11-20T18:12:49.613Z"
+  },
+  {
+    "id": 9,
+    "score": 27,
+    "answers": [
+      {
+        "questionId": 12,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 7
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 3
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T18:24:32.623Z"
+  },
+  {
+    "id": 10,
+    "score": 25,
+    "answers": [
+      {
+        "questionId": 13,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 3
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 5
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 2
+      },
+      {
+        "questionId": 4,
+        "selectedIndex": 1,
+        "correct": false,
+        "timeTaken": 1
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "mixed",
+    "theme": "Ali Baba",
+    "totalQuestions": 4,
+    "username": "Study",
+    "timestamp": "2025-11-20T20:34:05.484Z"
+  },
+  {
+    "id": 11,
+    "score": 15,
+    "answers": [
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T20:39:01.373Z"
+  },
+  {
+    "id": 12,
+    "score": 29,
+    "answers": [
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Study",
+    "timestamp": "2025-11-20T20:43:03.204Z"
+  },
+  {
+    "id": 13,
+    "score": 0,
+    "answers": [
+      {
+        "questionId": 18,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 0,
+        "correct": false,
+        "timeTaken": 0
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Study",
+    "timestamp": "2025-11-20T20:43:20.503Z"
+  },
+  {
+    "id": 14,
+    "score": 13,
+    "answers": [
+      {
+        "questionId": 12,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 0,
+        "selected_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Used to open the thieves' cave.",
+        "all_options": [
+          "Aladdin",
+          "Ali Baba and the Forty Thieves",
+          "The Porter and the Three Ladies",
+          "The Hunchback"
+        ]
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 1,
+        "selected_text": "The City of Brass",
+        "explanation": "Classic treasure cave story.",
+        "all_options": [
+          "Sinbad",
+          "Ali Baba and the Forty Thieves",
+          "The City of Brass",
+          "The Enchanted Horse"
+        ]
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Study",
+    "timestamp": "2025-11-20T20:44:40.342Z"
+  },
+  {
+    "id": 15,
+    "score": 12,
+    "answers": [
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1,
+        "selected_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Classic treasure cave story.",
+        "all_options": [
+          "Sinbad",
+          "Ali Baba and the Forty Thieves",
+          "The City of Brass",
+          "The Enchanted Horse"
+        ]
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 1,
+        "selected_text": "The Porter and the Three Ladies",
+        "explanation": "Used to open the thieves' cave.",
+        "all_options": [
+          "Aladdin",
+          "Ali Baba and the Forty Thieves",
+          "The Porter and the Three Ladies",
+          "The Hunchback"
+        ]
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T20:45:12.295Z"
+  },
+  {
+    "id": 16,
+    "score": 12,
+    "answers": [
+      {
+        "questionId": 12,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 0
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T20:52:36.560Z"
+  },
+  {
+    "id": 17,
+    "score": 12,
+    "answers": [
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1,
+        "selected_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Classic treasure cave story.",
+        "all_options": [
+          "Sinbad",
+          "Ali Baba and the Forty Thieves",
+          "The City of Brass",
+          "The Enchanted Horse"
+        ]
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 0,
+        "selected_text": "The Porter and the Three Ladies",
+        "explanation": "Used to open the thieves' cave.",
+        "all_options": [
+          "Aladdin",
+          "Ali Baba and the Forty Thieves",
+          "The Porter and the Three Ladies",
+          "The Hunchback"
+        ]
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T20:53:14.329Z"
+  },
+  {
+    "id": 18,
+    "score": 12,
+    "answers": [
+      {
+        "questionId": 12,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 2,
+        "question_text": "The phrase 'Open Sesame' is used in which story?",
+        "selected_text": "Ali Baba and the Forty Thieves",
+        "correct_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Used to open the thieves' cave.",
+        "all_options": [
+          "Aladdin",
+          "Ali Baba and the Forty Thieves",
+          "The Porter and the Three Ladies",
+          "The Hunchback"
+        ]
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 1,
+        "question_text": "Which tale features a cave, a treasure, and a secret phrase?",
+        "selected_text": "The City of Brass",
+        "correct_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Classic treasure cave story.",
+        "all_options": [
+          "Sinbad",
+          "Ali Baba and the Forty Thieves",
+          "The City of Brass",
+          "The Enchanted Horse"
+        ]
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Guest Player",
+    "timestamp": "2025-11-20T20:56:28.113Z"
+  },
+  {
+    "id": 19,
+    "score": 12,
+    "answers": [
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 2,
+        "question_text": "Which tale features a cave, a treasure, and a secret phrase?",
+        "selected_text": "Ali Baba and the Forty Thieves",
+        "correct_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Classic treasure cave story.",
+        "all_options": [
+          "Sinbad",
+          "Ali Baba and the Forty Thieves",
+          "The City of Brass",
+          "The Enchanted Horse"
+        ]
+      },
+      {
+        "questionId": 12,
+        "selectedIndex": 2,
+        "correct": false,
+        "timeTaken": 1,
+        "question_text": "The phrase 'Open Sesame' is used in which story?",
+        "selected_text": "The Porter and the Three Ladies",
+        "correct_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Used to open the thieves' cave.",
+        "all_options": [
+          "Aladdin",
+          "Ali Baba and the Forty Thieves",
+          "The Porter and the Three Ladies",
+          "The Hunchback"
+        ]
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Study",
+    "timestamp": "2025-11-20T20:59:37.653Z"
+  },
+  {
+    "id": 20,
+    "score": 28,
+    "answers": [
+      {
+        "questionId": 12,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1,
+        "question_text": "The phrase 'Open Sesame' is used in which story?",
+        "selected_text": "Ali Baba and the Forty Thieves",
+        "correct_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Used to open the thieves' cave.",
+        "all_options": [
+          "Aladdin",
+          "Ali Baba and the Forty Thieves",
+          "The Porter and the Three Ladies",
+          "The Hunchback"
+        ]
+      },
+      {
+        "questionId": 18,
+        "selectedIndex": 1,
+        "correct": true,
+        "timeTaken": 1,
+        "question_text": "Which tale features a cave, a treasure, and a secret phrase?",
+        "selected_text": "Ali Baba and the Forty Thieves",
+        "correct_text": "Ali Baba and the Forty Thieves",
+        "explanation": "Classic treasure cave story.",
+        "all_options": [
+          "Sinbad",
+          "Ali Baba and the Forty Thieves",
+          "The City of Brass",
+          "The Enchanted Horse"
+        ]
+      }
+    ],
+    "mode": "timed",
+    "difficulty": "easy",
+    "theme": "Ali Baba",
+    "totalQuestions": 2,
+    "username": "Study",
+    "timestamp": "2025-11-20T21:52:42.877Z"
+  }
+]
