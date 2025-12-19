@@ -1,13 +1,22 @@
-# Arabian Nights Quiz - Authentication System
+# 🔐 Authentication Setup
 
-## 🔐 Authentication Features
+The app has a full auth system built in. It primarily uses Firebase, but there's also a fallback file-based system if you don't want to set up Firebase right away.
 
-This application now includes a complete authentication system with:
+---
+
+## How It Works
+
+### Primary Authentication (Firebase)
+- Firebase Authentication integration
+- Email/password authentication
+- Session management
+- Secure user profiles
 
 ### Features Implemented:
 1. **User Registration & Login**
-   - Secure password hashing with bcrypt
-   - JWT token-based authentication
+   - Firebase Auth for secure authentication
+   - Alternative bcrypt password hashing
+   - JWT token-based authentication (legacy)
    - User profile management
 
 2. **Password Reset Flow**
@@ -26,9 +35,27 @@ This application now includes a complete authentication system with:
    - Level and badge system integration
    - Last active tracking
 
-## 📧 Email Configuration
+## � Firebase Configuration
 
-### Gmail Setup (Recommended for Development):
+### Firebase Setup (Primary Authentication):
+
+1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
+2. Enable Email/Password authentication
+3. Get your Firebase config from Project Settings
+4. Add to `.env.local`:
+
+```env
+NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_domain
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_bucket
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
+```
+
+## 📧 Email Configuration (Optional)
+
+### Gmail Setup (For Password Reset):
 
 1. Enable 2-factor authentication on your Gmail account
 2. Go to https://myaccount.google.com/apppasswords
@@ -151,12 +178,12 @@ POST /api/auth/reset-password
 
 ## 🔒 Security Features
 
-- ✅ Password hashing with bcrypt (10 rounds)
-- ✅ JWT tokens with 7-day expiration
-- ✅ Secure password reset flow
-- ✅ Token-based authentication
-- ✅ Email verification support
-- ✅ Protected API endpoints
+- Password hashing with bcrypt (10 rounds)
+- JWT tokens with 7-day expiration
+- Secure password reset flow
+- Token-based authentication
+- Email verification support
+- Protected API endpoints
 
 ## 📝 Testing the System
 
@@ -198,4 +225,4 @@ Before deploying to production:
 - `/forgot-password` - Request password reset
 - `/reset-password` - Reset password form (accessed via email link)
 
-All pages use the Arabian Nights theme with gradient text, parchment cards, and gold accents! 🏺✨
+All pages use the Arabian Nights theme with gradient text, parchment cards, and gold accents! 
