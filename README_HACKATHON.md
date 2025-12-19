@@ -17,16 +17,16 @@
 
 ## ✨ Highlights
 
-- 🎨 **Premium UI/UX** - Animated starry backgrounds, smooth transitions, glassmorphism effects
-- 🎮 **Smart Quiz Engine** - Difficulty levels, theme filtering, advanced scoring algorithm
-- 🏆 **Global Leaderboards** - All-time, monthly, weekly, and daily rankings with filters
-- 🎖️ **Achievement System** - 12 unique badges to unlock based on performance
-- 👥 **Multiplayer Mode** - Real-time quiz battles with friends
-- ⏱️ **Timed Challenges** - Race against the clock for bonus points
-- 📊 **User Profiles** - Track stats, level progression, and achievements
-- 🔐 **Authentication** - Full user management with Supabase
-- 📱 **Fully Responsive** - Perfect experience on mobile, tablet, and desktop
-- 🚀 **Deployment Ready** - One-click deploy to Vercel
+- **Premium UI/UX** - Animated starry backgrounds, smooth transitions, glassmorphism effects
+-  **Smart Quiz Engine** - Difficulty levels, theme filtering, advanced scoring algorithm
+-  **Global Leaderboards** - All-time, monthly, weekly, and daily rankings with filters
+-  **Achievement System** - 12 unique badges to unlock based on performance
+-  **Multiplayer Mode** - Real-time quiz battles with friends
+-  **Timed Challenges** - Race against the clock for bonus points
+-  **User Profiles** - Track stats, level progression, and achievements
+-  **Authentication** - Full user management with Supabase
+-  **Fully Responsive** - Perfect experience on mobile, tablet, and desktop
+-  **Deployment Ready** - One-click deploy to Vercel
 
 ---
 
@@ -34,24 +34,24 @@
 
 ### Core Features
 
-✅ **Multiple Choice Questions** - 24 curated questions about Arabian Nights tales
-✅ **Instant Feedback** - See correct answers immediately with detailed explanations
-✅ **Review System** - Comprehensive post-quiz analysis of all answers
-✅ **Score Tracking** - Real-time score updates with bonus point system
-✅ **Categorization** - Filter by difficulty (Easy, Medium, Hard) and story themes
-✅ **Responsive Design** - Mobile-first approach, works beautifully on all devices
-✅ **User Profiles** - Complete profile management with stats and progress tracking
-✅ **Arabian Theme** - Authentic Arabian Nights aesthetic with custom animations
-✅ **Leaderboard** - Multiple ranking systems with filtering options
+ **Multiple Choice Questions** - 24 curated questions about Arabian Nights tales
+ **Instant Feedback** - See correct answers immediately with detailed explanations
+ **Review System** - Comprehensive post-quiz analysis of all answers
+ **Score Tracking** - Real-time score updates with bonus point system
+ **Categorization** - Filter by difficulty (Easy, Medium, Hard) and story themes
+ **Responsive Design** - Mobile-first approach, works beautifully on all devices
+ **User Profiles** - Complete profile management with stats and progress tracking
+ **Arabian Theme** - Authentic Arabian Nights aesthetic with custom animations
+ **Leaderboard** - Multiple ranking systems with filtering options
 
 ### Bonus Features
 
-✅ **Timer System** - Configurable time limits with bonus points for quick answers
-✅ **Badges & Levels** - 12 unique achievements with unlock conditions
-✅ **Multiplayer Mode** - Room-based quiz battles (framework implemented)
-✅ **Personalization** - Theme preferences and performance-based recommendations
-✅ **Admin Panel** - Add questions dynamically through web interface
-✅ **Advanced Scoring** - Base points + time bonus + difficulty bonus
+ **Timer System** - Configurable time limits with bonus points for quick answers
+ **Badges & Levels** - 12 unique achievements with unlock conditions
+ **Multiplayer Mode** - Room-based quiz battles (framework implemented)
+ **Personalization** - Theme preferences and performance-based recommendations
+ **Admin Panel** - Add questions dynamically through web interface
+ **Advanced Scoring** - Base points + time bonus + difficulty bonus
 
 ---
 
@@ -202,20 +202,20 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Unlock 12 unique achievements:
 
-| Badge | Requirement | Icon |
-|-------|-------------|------|
-| Novice Storyteller | Complete first quiz | 📖 |
-| First Victory | Score 50+ points | 🎯 |
-| Speed Demon | Perfect score in timed mode | ⚡ |
-| Sinbad Seafarer | Master Sinbad questions | ⛵ |
-| Aladdin's Wisdom | Master Aladdin questions | 🪔 |
-| Ali Baba's Secret | Master Ali Baba questions | 🗝️ |
-| Scheherazade's Tale | Complete 10 quizzes | 👸 |
-| Scholar of Tales | 100 correct answers | 📚 |
-| Perfectionist | 5 perfect scores | 💯 |
-| Grand Champion | Top 10 on leaderboard | 👑 |
-| Living Legend | Reach level 10 | ⭐ |
-| Streak Master | 7-day streak | 🔥 |
+| Badge | Requirement |
+|-------|-------------|
+| Novice Storyteller | Complete first quiz | 
+| First Victory | Score 50+ points | 
+| Speed Demon | Perfect score in timed mode | 
+| Sinbad Seafarer | Master Sinbad questions |
+| Aladdin's Wisdom | Master Aladdin questions |
+| Ali Baba's Secret | Master Ali Baba questions |
+| Scheherazade's Tale | Complete 10 quizzes |
+| Scholar of Tales | 100 correct answers |
+| Perfectionist | 5 perfect scores | 
+| Grand Champion | Top 10 on leaderboard |
+| Living Legend | Reach level 10 |
+| Streak Master | 7-day streak | 
 
 ---
 
