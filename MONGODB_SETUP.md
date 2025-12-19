@@ -1,12 +1,18 @@
-# MongoDB Atlas Setup Instructions
+# 📊 MongoDB Atlas Setup
 
-## Current Issue
-Connection is being refused (ECONNREFUSED). This means MongoDB Atlas is blocking the connection.
+So you want to use MongoDB instead of the file-based storage? Cool. Here's how to get MongoDB Atlas working.
 
-## Step-by-Step Fix
+---
 
-### 1. Configure Network Access (IP Whitelist)
-Your IP address needs to be whitelisted in MongoDB Atlas:
+## The Most Common Problem
+
+If you're getting ECONNREFUSED errors, it's probably because MongoDB Atlas is blocking your IP address. This is super common and easy to fix.
+
+## Fix It
+
+### Allow Your IP Address
+
+Atlas needs to know you're allowed to connect:
 
 1. Go to [MongoDB Atlas](https://cloud.mongodb.com)
 2. Log in to your account
@@ -64,9 +70,14 @@ When successful, you should see:
 ```
 
 ## Connection String Format
-Your current connection string:
+Your connection string should follow this format:
 ```
-mongodb+srv://arya0101:arya112233@cluster0.elro8c3.mongodb.net/mystiq-quiz?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://username:password@cluster.mongodb.net/database-name?retryWrites=true&w=majority
+```
+
+Example:
+```
+mongodb+srv://arya0101:yourpassword@cluster0.elro8c3.mongodb.net/arabian-quiz?retryWrites=true&w=majority&appName=Cluster0
 ```
 
 Make sure:
